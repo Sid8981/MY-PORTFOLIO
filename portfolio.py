@@ -308,10 +308,6 @@ elif choice == 'Study Materials':
 
 
 
-                                if choice == 'Data Sets For Practice':
-                                   st.image('AI.jpg', use_column_width=True)
-                                   st.write("All formats Datasets are available for practice")
-                                   st.markdown('<h2 class="outline">Blogs</h2>', unsafe_allow_html=True)
 
 
 
