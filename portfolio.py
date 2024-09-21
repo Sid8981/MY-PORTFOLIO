@@ -77,7 +77,7 @@ elif choice == 'Projects':
                 )
 
 elif choice == 'Contact':
-    st.image('contact.png', use_column_width=True)
+    st.image('Contact.png', use_column_width=True)
 
     st.write('LETS CONNECT MY FRIEND')
 if choice =='About Me':
