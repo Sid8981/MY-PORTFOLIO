@@ -175,7 +175,7 @@ elif choice == 'Study Materials':
     st.markdown('<h2 class="outline">Study Materials</h2>', unsafe_allow_html=True)
     st.write('Here you can find various study materials.')
     st.markdown('<h5 class="outline">EXCEL</h5>', unsafe_allow_html=True)
-    with open("ALL EXCEL FORMULAS.pdf., "rb") as file:
+    with open("ALL EXCEL FORMULAS.pdf,"rb") as file:
         st.download_button(
             label="Excel Formulas",
             data=file,
