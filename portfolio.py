@@ -82,7 +82,7 @@ elif choice == 'Contact':
     st.write('LETS CONNECT MY FRIEND')
 if choice =='About Me':
 
-    st.image('siddharth.png', width=400)
+    st.image('Siddharth.png', width=400)
     st.markdown('<p style="font-size: 30px; text-align:Left;">Siddharth Choudhary</p>', unsafe_allow_html=True)
     st.markdown(
         """
