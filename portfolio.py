@@ -269,7 +269,7 @@ elif choice == 'Study Materials':
                                           )
                                          st.markdown('<h5 class="outline">Machine Learning </h5>',
                                                      unsafe_allow_html=True)
-                                         with open("2.End-to-End Machine Learning Project.pdf",
+                                         with open("2. End-to-End Machine Learning Project.pdf",
                                             "rb") as file:
                                              st.download_button(
                                                      label="ML Project ebook",
